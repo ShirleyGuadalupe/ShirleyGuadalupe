@@ -97,6 +97,6 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/ShirleyGuadalupe/ShirleyGuadalupe/output/snake.svg](https://github.com/ShirleyGuadalupe/ShirleyGuadalupe/blob/main/.github/workflows/snake.yml)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShirleyGuadalupe/ShirleyGuadalupe/output/snake.svg" alt="Snake animation" />
 
 ###
